@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns01001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npnxnanbnsnfns01001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
   <layouts>
-    <layout name="npnxnanbsnfns01001100101" font="Lato" controllayout="npnxnanbsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="pxabnsnfns01001100101" font="Lato" controllayout="pxabnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="npxnabnsnfns01001100101" font="Lato" controllayout="npxnabnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="npnxnanbnsnfns01001100101" font="Lato" controllayout="npnxnanbnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="pxabnsnfns01001100100" font="Lato" controllayout="pxabnsnfns01001100100" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
+    <layout name="npnxnanbsnfns01001100101" font="Lato" controllayout="npnxnanbsnfns01001100101" colorscheme="npnxnanbnsnfns01001100101" string_table="npnxnanbnsnfns01001100101" />
+    <layout name="pxabnsnfns01001100101" font="Lato" controllayout="pxabnsnfns01001100101" colorscheme="npnxnanbnsnfns01001100101" string_table="npnxnanbnsnfns01001100101" />
+    <layout name="npxnabnsnfns01001100101" font="Lato" controllayout="npxnabnsnfns01001100101" colorscheme="npnxnanbnsnfns01001100101" string_table="npnxnanbnsnfns01001100101" />
+    <layout name="npnxnanbnsnfns01001100101" font="Lato" controllayout="npnxnanbnsnfns01001100101" colorscheme="npnxnanbnsnfns01001100101" string_table="npnxnanbnsnfns01001100101" />
+    <layout name="pxabnsnfns01001100100" font="Lato" controllayout="pxabnsnfns01001100100" colorscheme="npnxnanbnsnfns01001100101" string_table="npnxnanbnsnfns01001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/63hOLBRcSui.png" />
+              <option name="html5_logo_url" value="mobile/5jIeOqmokxA.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -72,8 +72,8 @@
           <option name="replay" value="false" />
           <option name="search" value="false" />
           <option name="closed_captions" value="true" />
-          <option name="settings" value="true" />
-          <option name="fullScreenToggle" value="false" />
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="true" />
           <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
@@ -118,7 +118,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
@@ -143,7 +143,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -168,7 +168,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -193,7 +193,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -218,7 +218,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="false" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -235,7 +235,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns01001100101">
+    <colorscheme name="npnxnanbnsnfns01001100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1412,7 +1412,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns01001100101">
+    <string_table name="npnxnanbnsnfns01001100101">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1565,17 +1565,24 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6FY0o7mApMt" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6FY0o7mApMt" displaytext="Employee Code of Conduct" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6FY0o7mApMt.65kAsbwfPwp" displaytext="Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6FY0o7mApMt.6XcyWvSVURU" displaytext="Business Ethics" expand="false" type="slide" />
             <slidelink slideid="_player.6FY0o7mApMt.6ogwfRTmlmv" displaytext="Workplace Professionalism" expand="false" type="slide" />
+            <slidelink slideid="_player.6FY0o7mApMt.5x6oEfUptWZ" displaytext="Data Security" expand="false" type="slide" />
+            <slidelink slideid="_player.6FY0o7mApMt.6ITF2wUGXQS" displaytext="Physical Safety and Security" expand="false" type="slide" />
+            <slidelink slideid="_player.6FY0o7mApMt.5YOJhtt00Jz" displaytext="Compliance &amp;amp; Discipline" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="story_content/external_files/Employee Code of Conduct and Discipline Policy.pdf" image="story_content/68yA7bYCfHc.png" title="GCOC-Guidelines" />
+    </resources>
+  </resource_data>
   <transcript_data />
   <glossary_data />
 </bwFrame>
